@@ -1,5 +1,5 @@
 # CNNWebScrapper
-## Scraps list of URLs from CNN.com and forms a TF-IDF matrix
+## Scrapes list of URLs from CNN.com and forms a TF-IDF matrix
 
 ## Steps to execute:
 
